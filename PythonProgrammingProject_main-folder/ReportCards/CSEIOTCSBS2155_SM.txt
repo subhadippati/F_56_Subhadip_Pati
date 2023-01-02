@@ -1,0 +1,14 @@
+Name of the student : SM 
+Class Roll of the student : 55 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS2155
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 96 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 95 
+
+You have got 566 in total with 94%
+Outstanding Performance... You have passed the exam with grade A.

@@ -1,0 +1,14 @@
+Name of the student : Sp 
+Class Roll of the student : 56 
+Stream of the student : CSE 
+Your Student ID is : CSE2256
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 97 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 89 
+
+You have got 560 in total with 93%
+Outstanding Performance... You have passed the exam with grade A.

@@ -1,0 +1,14 @@
+Name of the student : SG 
+Class Roll of the student : 70 
+Stream of the student : CSE 
+Your Student ID is : CSE2270
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 76 
+Marks obtained in Physics is : 69 
+Marks obtained in Chemistry is : 70 
+Marks obtained in Biology is : 75 
+Marks obtained in English is : 50 
+
+You have got 396 in total with 66%
+Your performance is average... Work hard... You have passed the exam with grade D.
